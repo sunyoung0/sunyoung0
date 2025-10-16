@@ -31,7 +31,7 @@
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
         </a>
       </div>
-      <div>Email: <a href="sunyp0713@naver.com">sunyp0713@naver.com</a></div>
+      <div>Email: <a href="mailto:sunyp0713@naver.com">sunyp0713@naver.com</a></div>
     </div>
   </div>
 </td>
