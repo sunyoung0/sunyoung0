@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=header&fontSize=35" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&text=sunyoung's%20github&height=100&section=header&fontSize=35" />
 
 <div align="center">
   
@@ -14,10 +14,6 @@
 <div align="center" style="margin-bottom: 25px;">
   <a href="https://velog.io/@sunyoung0/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog Badge" />
-  </a>
-  
-  <a href="https://github.com/sunyoung0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge" />
   </a>
 </div>
 
@@ -65,6 +61,6 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksdn1223&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyoung0&theme=radical"/>
 
 </div>
