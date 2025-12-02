@@ -1,0 +1,21 @@
+name: Update Productive Box Gist
+
+on:
+  schedule:
+    # 매일 한국 시간 기준 아침 8시에 실행 (Cron 표현식)
+    - cron: '0 23 * * *' 
+  workflow_dispatch:
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update Productive Box
+        uses: lowlighter/productive-box@latest
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # 3단계에서 설정한 Secret 이름
+          GIST_ID: '4253eadf66dca40f9ebe1621ae2c2d95'           # 2단계에서 복사한 Gist ID
+          GIST_FILENAME: github-productive-box.md # 2단계에서 만든 파일 이름
+          TIMEZONE: Asia/Seoul # 시간대 설정 (선택 사항)
