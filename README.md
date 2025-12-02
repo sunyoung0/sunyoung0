@@ -2,12 +2,12 @@
 
 <div align="center">
   
-  # ✨ Welcome to sunyoung0's GitHub Profile 🚀
+  #  Welcome to sunyoung0's GitHub Profile 
   
-  ### 👋 About Me
-  <p>📚 Java, Spring Boot, React를 주로 다루는 백엔드 주니어 개발자입니다.</p>
-  <p>🌱 문제 해결을 위해 끊임없이 고민하고 기록하는 것을 중요하게 생각합니다.</p>
-  <p>📫 연락은 sunyp0713@naver.com으로 주세요!</p>
+  ###  About Me
+  <p> Java, Spring Boot, React를 주로 다루는 백엔드 주니어 개발자입니다.</p>
+  <p> 문제 해결을 위해 끊임없이 고민하고 기록하는 것을 중요하게 생각합니다.</p>
+  <p> 연락은 sunyp0713@naver.com으로 주세요!</p>
 
   <br/>
 
@@ -22,7 +22,7 @@
 </div>
 
 <!-- 기술 스택 -->
-  ## ✨ Tech Stack ✨
+  ##  Tech Stack 
 
 <div align="center">
   <div style="margin-top: 20px;">
@@ -62,10 +62,9 @@
 
 
 <div align="center">
-  
-## 🔥 GitHub Streak 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunyoung0&theme=radical&hide_border=true" 
-     alt="GitHub Streak" />
-</div>
-       
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksdn1223&theme=radical"/>
+
 </div>
