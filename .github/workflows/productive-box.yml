@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update Productive Box@3
-        uses: lowlighter/productive-box@latest
+      - name: Update Productive Box
+        uses: lowlighter/productive-box@3
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # 3단계에서 설정한 Secret 이름
           GIST_ID: '4253eadf66dca40f9ebe1621ae2c2d95'           # 2단계에서 복사한 Gist ID
