@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Update Productive Box
-        uses: lowlighter/productive-box/actions@3
+        uses: kevinzunigacuellar/github-stats-box@v2
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # 3단계에서 설정한 Secret 이름
           GIST_ID: '4253eadf66dca40f9ebe1621ae2c2d95'           # 2단계에서 복사한 Gist ID
