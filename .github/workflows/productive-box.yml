@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update Productive Box
+      - name: Update Productive Box@3
         uses: lowlighter/productive-box@latest
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # 3단계에서 설정한 Secret 이름
