@@ -7,15 +7,15 @@
   ###  About Me
   <p> Java, Spring Boot, React를 주로 다루는 백엔드 주니어 개발자입니다.</p>
   <p> 문제 해결을 위해 끊임없이 고민하고 기록하는 것을 중요하게 생각합니다.</p>
-  <p> 연락은 sunyp0713@naver.com으로 주세요!</p>
+  <!-- <p> 연락은 sunyp0713@naver.com으로 주세요!</p> -->
 
   <br/>
 
-<div align="center" style="margin-bottom: 25px;">
+<!-- <div align="center" style="margin-bottom: 25px;">
   <a href="https://velog.io/@sunyoung0/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog Badge" />
   </a>
-</div>
+</div> -->
 
 <!-- 기술 스택 -->
   ##  Tech Stack 
@@ -59,8 +59,8 @@
 
 <div align="center">
 
-## GitHub Stats
+<!-- ## GitHub Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyoung0&theme=radical"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyoung0&theme=radical"/> -->
 
 </div>
